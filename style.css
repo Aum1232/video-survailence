@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+}
+.footer {
+    text-align: center;
+    background-color: aqua;
+    line-height: 3;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+canvas{
+    box-shadow: 5px 5px 5px cyan;
+    border-radius: 10px;
+    border: blue;
+    margin-top: 90px;
+}
+.heading {
+    width: 100%;
+    margin: 0px;
+    font-size: 25;
+}
+#start,#number,#status{
+    font-size: 20px;
+    color: red;
+}
